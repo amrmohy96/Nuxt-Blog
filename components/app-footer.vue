@@ -1,10 +1,10 @@
 <template>
-<h1>info page</h1>
+  <p>footer</p>
 </template>
 
 <script>
 export default {
-  name: "info"
+name: "app-footer"
 }
 </script>
 
